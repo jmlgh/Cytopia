@@ -1,0 +1,34 @@
+# Meta
+set(AM_MULTI_CONFIG "FALSE")
+set(AM_PARALLEL "1")
+# Directories
+set(AM_CMAKE_SOURCE_DIR "/home/travis/build/JimmySnails/Cytopia")
+set(AM_CMAKE_BINARY_DIR "/home/travis/build/JimmySnails/Cytopia/travis_build")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/travis/build/JimmySnails/Cytopia/src/TileDataUi")
+set(AM_CMAKE_CURRENT_BINARY_DIR "/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi/TileDataEditor_autogen")
+set(AM_INCLUDE_DIR "include")
+# Files
+set(AM_SOURCES "/home/travis/build/JimmySnails/Cytopia/src/TileDataUi/TileData.cxx;/home/travis/build/JimmySnails/Cytopia/src/TileDataUi/TileDataUi.cxx;/home/travis/build/JimmySnails/Cytopia/src/TileDataUi/main.cxx")
+set(AM_HEADERS "")
+set(AM_SETTINGS_FILE "/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi/CMakeFiles/TileDataEditor_autogen.dir/AutogenOldSettings.txt")
+# Qt
+set(AM_QT_VERSION_MAJOR "5")
+set(AM_QT_MOC_EXECUTABLE "/opt/qt512/bin/moc")
+set(AM_QT_UIC_EXECUTABLE "/opt/qt512/bin/uic")
+# MOC settings
+set(AM_MOC_SKIP "/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi/TileDataEditor_autogen/mocs_compilation.cpp")
+set(AM_MOC_DEFINITIONS "QT_CORE_LIB;QT_GUI_LIB;QT_NO_DEBUG;QT_WIDGETS_LIB")
+set(AM_MOC_INCLUDES "/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi;/home/travis/build/JimmySnails/Cytopia/src/TileDataUi;/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi/TileDataEditor_autogen/include;/home/travis/build/JimmySnails/Cytopia/src/TileDataUi/..;/opt/qt512/include;/opt/qt512/include/QtWidgets;/opt/qt512/include/QtGui;/opt/qt512/include/QtCore;/opt/qt512/./mkspecs/linux-g++;/usr/include")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "")
+set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "/usr/bin/g++;-dM;-E;-c;/usr/local/cmake-3.12.4/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp")
+# UIC settings
+set(AM_UIC_SKIP "/home/travis/build/JimmySnails/Cytopia/travis_build/src/TileDataUi/TileDataEditor_autogen/mocs_compilation.cpp")
+set(AM_UIC_TARGET_OPTIONS "")
+set(AM_UIC_OPTIONS_FILES "")
+set(AM_UIC_OPTIONS_OPTIONS "")
+set(AM_UIC_SEARCH_PATHS "")

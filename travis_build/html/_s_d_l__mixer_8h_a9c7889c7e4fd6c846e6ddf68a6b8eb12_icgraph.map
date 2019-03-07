@@ -1,0 +1,4 @@
+<map id="Mix_HookMusic" name="Mix_HookMusic">
+<area shape="rect" id="node2" href="$class_music.html#aeea87b51f3bbed320b0313f0f778a365" title="stop music Stops the music " alt="" coords="172,5,267,32"/>
+<area shape="rect" id="node3" href="$class_music.html#a54aaf5d9d32eeffc97fe31344e13642f" title="Play music Plays the loaded music file. " alt="" coords="315,5,407,32"/>
+</map>

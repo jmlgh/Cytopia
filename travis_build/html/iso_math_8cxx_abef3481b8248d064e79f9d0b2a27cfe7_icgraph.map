@@ -1,0 +1,9 @@
+<map id="isPointWithinMapBoundaries" name="isPointWithinMapBoundaries">
+<area shape="rect" id="node2" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="255,78,472,105"/>
+<area shape="rect" id="node4" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="785,82,987,109"/>
+<area shape="rect" id="node3" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="523,53,729,79"/>
+<area shape="rect" id="node7" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="520,103,732,130"/>
+<area shape="rect" id="node8" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="780,5,992,47"/>
+<area shape="rect" id="node5" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="1040,47,1083,74"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1131,47,1185,74"/>
+</map>

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=Cytopia
+Encoding=UTF-8
+Type=Application
+Comment=A pixel-art city building game
+Categories=Game
+Terminal=true
+Path=/usr/games/Cytopia
+Exec=/usr/games/Cytopia/Cytopia
+Icon=/usr/games/Cytopia/resources/images/app_icons/cytopia_icon_iso.png

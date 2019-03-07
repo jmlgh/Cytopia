@@ -1,0 +1,11 @@
+<map id="Music::play" name="Music::play">
+<area shape="rect" id="node2" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="305,81,443,108"/>
+<area shape="rect" id="node7" href="$class_music.html#aeea87b51f3bbed320b0313f0f778a365" title="stop music Stops the music " alt="" coords="154,132,249,159"/>
+<area shape="rect" id="node10" href="$_s_d_l__mixer_8h.html#a215ea5402d7da6d73a53b408d33b06b3" title="Mix_PlayMusic" alt="" coords="145,183,257,209"/>
+<area shape="rect" id="node3" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="496,5,632,32"/>
+<area shape="rect" id="node4" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="685,31,817,57"/>
+<area shape="rect" id="node5" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="491,107,637,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="497,157,631,184"/>
+<area shape="rect" id="node8" href="$_s_d_l__mixer_8h.html#a9c7889c7e4fd6c846e6ddf68a6b8eb12" title="Mix_HookMusic" alt="" coords="315,132,433,159"/>
+<area shape="rect" id="node9" href="$_s_d_l__mixer_8h.html#a2b2bc73786ee25eddb63208751baba76" title="Mix_HaltMusic" alt="" coords="318,183,430,209"/>
+</map>

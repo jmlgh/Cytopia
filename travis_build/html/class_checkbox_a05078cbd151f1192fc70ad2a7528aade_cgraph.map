@@ -1,0 +1,7 @@
+<map id="Checkbox::draw" name="Checkbox::draw">
+<area shape="rect" id="node2" href="$class_ui_element.html#ab895b67e2f73bac9768b99bc64bd2080" title="Change the Texture of the button Changes the texture. " alt="" coords="176,31,385,57"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#a6d04ce7305c5c309e846100bd510dd49" title="Get the button state Get the current mouse button pressed state. " alt="" coords="433,5,628,32"/>
+<area shape="rect" id="node4" href="$class_ui_element.html#ad3ad04df3667ac6c388a319511bff7d1" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="439,68,623,95"/>
+<area shape="rect" id="node5" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="676,43,863,69"/>
+<area shape="rect" id="node6" href="$_s_d_l__render_8h.html#a3b5098c1944441034d2c5cff419f93cc" title="Fill a rectangle on the current rendering target with the drawing color. " alt="" coords="699,93,840,120"/>
+</map>

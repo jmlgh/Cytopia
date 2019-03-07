@@ -1,0 +1,9 @@
+<map id="Music::stop" name="Music::stop">
+<area shape="rect" id="node2" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="148,81,285,108"/>
+<area shape="rect" id="node7" href="$_s_d_l__mixer_8h.html#a9c7889c7e4fd6c846e6ddf68a6b8eb12" title="Mix_HookMusic" alt="" coords="157,132,276,159"/>
+<area shape="rect" id="node8" href="$_s_d_l__mixer_8h.html#a2b2bc73786ee25eddb63208751baba76" title="Mix_HaltMusic" alt="" coords="161,183,273,209"/>
+<area shape="rect" id="node3" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="339,5,475,32"/>
+<area shape="rect" id="node4" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="528,31,660,57"/>
+<area shape="rect" id="node5" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="333,107,480,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="340,157,473,184"/>
+</map>

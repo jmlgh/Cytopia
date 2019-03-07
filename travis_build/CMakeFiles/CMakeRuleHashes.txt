@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+dfa57453f0890f76f59a4a09c8d45374 CMakeFiles/doc
+03ecce1a55140c203f8899bbd02b4c44 src/TileDataUi/CMakeFiles/TileDataEditor_autogen

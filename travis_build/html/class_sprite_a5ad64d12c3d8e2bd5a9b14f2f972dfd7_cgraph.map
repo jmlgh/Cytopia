@@ -1,0 +1,5 @@
+<map id="Sprite::setTexture" name="Sprite::setTexture">
+<area shape="rect" id="node2" href="$class_sprite.html#a9f2df90a866c027dc7d6c688ff6c9c90" title="Sprite::refresh" alt="" coords="188,31,301,57"/>
+<area shape="rect" id="node3" href="$_s_d_l__render_8h.html#aade777757bfc3b98bf3ef742b1d8a052" title="Query the attributes of a texture. " alt="" coords="391,5,530,32"/>
+<area shape="rect" id="node4" href="$iso_math_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="349,56,572,83"/>
+</map>

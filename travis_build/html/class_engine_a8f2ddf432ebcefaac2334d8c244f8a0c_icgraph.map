@@ -1,0 +1,12 @@
+<map id="Engine::instance" name="Engine::instance">
+<area shape="rect" id="node2" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="453,56,660,83"/>
+<area shape="rect" id="node3" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="715,157,918,184"/>
+<area shape="rect" id="node4" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="971,259,1013,285"/>
+<area shape="rect" id="node6" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="451,107,663,133"/>
+<area shape="rect" id="node7" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="183,5,400,32"/>
+<area shape="rect" id="node9" href="$iso_math_8hxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="180,157,403,184"/>
+<area shape="rect" id="node10" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="UIManager::init" alt="" coords="497,309,616,336"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1061,259,1116,285"/>
+<area shape="rect" id="node8" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="711,45,923,86"/>
+<area shape="rect" id="node11" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="740,309,893,336"/>
+</map>

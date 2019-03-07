@@ -1,0 +1,6 @@
+<map id="Tooltip::reset" name="Tooltip::reset">
+<area shape="rect" id="node2" href="$class_ui_element.html#a5999dfe1356f6bb787a4ba478448ae3f" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="156,5,323,32"/>
+<area shape="rect" id="node3" href="$class_timer.html#a63f0eb44b27402196590a03781515dba" title="Timer::stop" alt="" coords="192,56,287,83"/>
+<area shape="rect" id="node4" href="$_s_d_l__timer_8h.html#a2dbeb63c4f0564811a4adf3938808977" title="Get the current value of the high resolution counter. " alt="" coords="378,31,589,57"/>
+<area shape="rect" id="node5" href="$_s_d_l__timer_8h.html#a507ebea12e31dacc9f85f7d9febe0efb" title="Get the count per second of the high resolution counter. " alt="" coords="371,81,596,108"/>
+</map>

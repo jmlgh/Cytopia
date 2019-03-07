@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=Cytopia TileData Editor
+Encoding=UTF-8
+Type=Application
+Comment=A pixel-art city building game
+Categories=Game
+Terminal=false
+Path=/usr/games/Cytopia
+Exec=/usr/games/Cytopia/TileDataEditor
+Icon=/usr/games/Cytopia/resources/images/app_icons/tiledataeditor_icon_iso.png

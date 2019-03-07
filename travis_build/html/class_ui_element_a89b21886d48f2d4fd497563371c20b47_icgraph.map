@@ -1,0 +1,15 @@
+<map id="UiElement::changeButtonState" name="UiElement::changeButtonState">
+<area shape="rect" id="node2" href="$class_ui_element.html#af2070f9bea7917cfeab7dfde124af89b" title="Set the Action Parameter of the UI Element. Sets the Parameter of the action the UI Element should ex..." alt="" coords="281,5,504,32"/>
+<area shape="rect" id="node3" href="$class_button.html#aa9e81862a89fd5758ce5858ba1af59c1" title="Button::onMouseButtonUp" alt="" coords="297,56,489,83"/>
+<area shape="rect" id="node4" href="$class_button.html#a21bf34580acad085951d597b53145999" title="Button::onMouseButtonDown" alt="" coords="288,107,497,133"/>
+<area shape="rect" id="node5" href="$class_button.html#af890652b6918d511cae071f9982c5f2b" title="Button::onMouseEnter" alt="" coords="310,157,475,184"/>
+<area shape="rect" id="node6" href="$class_button.html#a30125723c03d6f675c1ecdbfe2b6d265" title="Button::onMouseLeave" alt="" coords="308,208,477,235"/>
+<area shape="rect" id="node7" href="$class_checkbox.html#a29cd6707ba3067e276c279046446fac0" title="Checkbox::onMouseButtonUp" alt="" coords="287,259,498,285"/>
+<area shape="rect" id="node8" href="$class_checkbox.html#a515488f03441114209ec5c7c0a39ddc2" title="Checkbox::onMouseButtonDown" alt="" coords="279,309,507,336"/>
+<area shape="rect" id="node9" href="$class_checkbox.html#ae54b2346527479a073493ececaaef099" title="Checkbox::onMouseEnter" alt="" coords="301,360,485,387"/>
+<area shape="rect" id="node10" href="$class_checkbox.html#a304b657ec5d71ba0a344c4ffc3279d2f" title="Checkbox::onMouseLeave" alt="" coords="299,411,487,437"/>
+<area shape="rect" id="node11" href="$class_combo_box.html#ae64e026948f5d9c10bf7294c1c5130d7" title="ComboBox::onMouseButtonUp" alt="" coords="283,461,502,488"/>
+<area shape="rect" id="node12" href="$class_combo_box.html#afa5865aae8002a2e2e6a67a9d93ac83c" title="ComboBox::onMouseButtonDown" alt="" coords="275,512,511,539"/>
+<area shape="rect" id="node13" href="$class_combo_box.html#a55112fe7f702cca98660f87fb231eb95" title="ComboBox::onMouseLeave" alt="" coords="295,563,491,589"/>
+<area shape="rect" id="node14" href="$class_combo_box.html#a9e34bb39454d682c02e434bcc0aa99a4" title="ComboBox::onMouseMove" alt="" coords="297,613,489,640"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Text::Text" name="Text::Text">
+<area shape="rect" id="node2" href="$class_ui_element.html#a1ab05e730a03275f366b136186f6d15a" title="UiElement::setText" alt="" coords="133,183,275,209"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#a56720077ae7f69979e5bf725f3c9be21" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="323,183,531,209"/>
+<area shape="rect" id="node4" href="$_s_d_l__ttf_8h.html#a01ed378e8b62a669981dc4cf569763b2" title="TTF_OpenFont" alt="" coords="635,5,747,32"/>
+<area shape="rect" id="node5" href="$_s_d_l__render_8h.html#a078c0a925e24542d356a02183a306be6" title="Destroy the specified texture. " alt="" coords="616,56,767,83"/>
+<area shape="rect" id="node6" href="$_s_d_l__ttf_8h.html#a33855e6f20e52c24f62df7f730c25fca" title="TTF_RenderText_Solid" alt="" coords="613,107,770,133"/>
+<area shape="rect" id="node7" href="$_s_d_l__render_8h.html#a0c75234b90965e9db70947fbe91a5840" title="Create a texture from an existing surface. " alt="" coords="579,157,804,184"/>
+<area shape="rect" id="node8" href="$_s_d_l__render_8h.html#aade777757bfc3b98bf3ef742b1d8a052" title="Query the attributes of a texture. " alt="" coords="622,208,761,235"/>
+<area shape="rect" id="node9" href="$_s_d_l__error_8h.html#ac88e1aa404a8f94aaee4ad6b94547647" title="SDL_GetError" alt="" coords="637,259,746,285"/>
+<area shape="rect" id="node10" href="$_s_d_l__surface_8h.html#a7b8d4f9cc058822501896a2eed81220e" title="SDL_FreeSurface" alt="" coords="626,309,757,336"/>
+<area shape="rect" id="node11" href="$_s_d_l__ttf_8h.html#a006b7c83a8ff15bb9f9d453d48ba3e51" title="TTF_CloseFont" alt="" coords="635,360,748,387"/>
+</map>

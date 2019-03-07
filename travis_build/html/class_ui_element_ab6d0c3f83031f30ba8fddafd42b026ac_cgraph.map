@@ -1,0 +1,5 @@
+<map id="UiElement::drawTextFrame" name="UiElement::drawTextFrame">
+<area shape="rect" id="node2" href="$class_ui_element.html#ad3ad04df3667ac6c388a319511bff7d1" title="Draws a filled rectangle to the screen. Draws a filled rectangle to the screen. " alt="" coords="244,31,428,57"/>
+<area shape="rect" id="node3" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="476,5,663,32"/>
+<area shape="rect" id="node4" href="$_s_d_l__render_8h.html#a3b5098c1944441034d2c5cff419f93cc" title="Fill a rectangle on the current rendering target with the drawing color. " alt="" coords="499,56,640,83"/>
+</map>

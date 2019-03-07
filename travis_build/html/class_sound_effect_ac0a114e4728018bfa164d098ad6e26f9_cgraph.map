@@ -1,0 +1,8 @@
+<map id="SoundEffect::isPlaying" name="SoundEffect::isPlaying">
+<area shape="rect" id="node2" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="216,81,353,108"/>
+<area shape="rect" id="node7" href="$_s_d_l__mixer_8h.html#a2762f72d43ec5332250311a9887a8998" title="Mix_Playing" alt="" coords="237,132,332,159"/>
+<area shape="rect" id="node3" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="407,5,543,32"/>
+<area shape="rect" id="node4" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="596,31,728,57"/>
+<area shape="rect" id="node5" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="401,107,548,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="408,157,541,184"/>
+</map>

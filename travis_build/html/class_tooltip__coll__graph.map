@@ -1,0 +1,6 @@
+<map id="Tooltip" name="Tooltip">
+<area shape="rect" id="node2" href="$class_text.html" title="Text" alt="" coords="149,171,196,197"/>
+<area shape="rect" id="node3" href="$class_ui_element.html" title="Base class for UI Elements Provides functions and variables for derived user interface elements..." alt="" coords="129,95,217,121"/>
+<area shape="rect" id="node4" href="$struct_ui_element_1_1_element_data.html" title="UiElement::ElementData" alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node5" href="$struct_s_d_l___rect.html" title="A rectangle, with the origin at the upper left. " alt="" coords="210,5,293,32"/>
+</map>

@@ -1,0 +1,11 @@
+Package: cytopia
+Version: 0.1
+Section: games
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), qt512base
+Homepage: https://github.com/JimmySnails/Cytopia
+Installed-Size: 20873
+Maintainer: Jimmy Snails
+Description: A pixel-art city building game
+

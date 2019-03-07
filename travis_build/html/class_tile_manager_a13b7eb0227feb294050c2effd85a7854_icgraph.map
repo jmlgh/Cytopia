@@ -1,0 +1,5 @@
+<map id="TileManager::caluclateSlopeOrientation" name="TileManager::caluclateSlopeOrientation">
+<area shape="rect" id="node2" href="$class_map_node.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="463,13,608,39"/>
+<area shape="rect" id="node4" href="$class_tile_manager.html#a65e916d2e14c8c1675fc70facd71cd0e" title="Retrieves instance of Singleton class TileManager. " alt="" coords="253,38,415,65"/>
+<area shape="rect" id="node3" href="$class_map_node.html#ada85d1696216b7fb6aa77f59e073d54f" title="MapNode::getTileID" alt="" coords="656,13,803,39"/>
+</map>

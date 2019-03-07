@@ -1,0 +1,10 @@
+<map id="SDL_GetPerformanceFrequency" name="SDL_GetPerformanceFrequency">
+<area shape="rect" id="node2" href="$class_timer.html#a63f0eb44b27402196590a03781515dba" title="Timer::stop" alt="" coords="333,5,427,32"/>
+<area shape="rect" id="node4" href="$class_timer.html#a0289effad7b573c508bc27e405900a23" title="Timer::pause" alt="" coords="327,56,433,83"/>
+<area shape="rect" id="node5" href="$class_timer.html#a5fd65dd710c8229cb24d02f761a0b15f" title="get elapsed time Returns the time in milliseconds, that has passed since the timer was started..." alt="" coords="296,107,464,133"/>
+<area shape="rect" id="node9" href="$class_timer.html#ab16249c34c11718cc8e99ff83a3febbc" title="get elapsed time since last timeOut Returns the time in milliseconds, that has passed since the last ..." alt="" coords="279,158,481,199"/>
+<area shape="rect" id="node3" href="$class_tooltip.html#ad451a89f3aaaa61d6cef9ea4ba590c68" title="Tooltip::reset" alt="" coords="579,5,682,32"/>
+<area shape="rect" id="node6" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="529,81,732,108"/>
+<area shape="rect" id="node7" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="780,107,823,133"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="871,107,925,133"/>
+</map>

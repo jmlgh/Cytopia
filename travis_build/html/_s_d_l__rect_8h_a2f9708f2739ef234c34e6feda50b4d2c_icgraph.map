@@ -1,0 +1,12 @@
+<map id="SDL_PointInRect" name="SDL_PointInRect">
+<area shape="rect" id="node2" href="$class_map.html#a527f0958ec1966a2210a811ab52cbba5" title="Map::demolishNode" alt="" coords="179,56,328,83"/>
+<area shape="rect" id="node3" href="$class_engine.html#a8ea1dc4f854268d57992b60e0fe70e02" title="Engine::demolishNode" alt="" coords="789,5,954,32"/>
+<area shape="rect" id="node8" href="$class_map.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="376,56,529,83"/>
+<area shape="rect" id="node10" href="$class_map.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="577,107,736,133"/>
+<area shape="rect" id="node4" href="$class_engine.html#a1261654b687459f800f1a71b2186eef5" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="1007,31,1155,57"/>
+<area shape="rect" id="node5" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1203,56,1405,83"/>
+<area shape="rect" id="node6" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="1453,56,1496,83"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1544,56,1599,83"/>
+<area shape="rect" id="node9" href="$class_engine.html#a2563e43f253f9de4c55544feba416518" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="787,56,956,83"/>
+<area shape="rect" id="node11" href="$class_engine.html#a64d67ab7a504b26fb7f7efca7abf3968" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="784,107,959,133"/>
+</map>

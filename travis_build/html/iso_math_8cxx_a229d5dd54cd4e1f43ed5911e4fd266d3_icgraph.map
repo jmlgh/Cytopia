@@ -1,0 +1,12 @@
+<map id="convertIsoToScreenCoordinates" name="convertIsoToScreenCoordinates">
+<area shape="rect" id="node2" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="276,56,493,83"/>
+<area shape="rect" id="node9" href="$class_sprite.html#abcd3ca18d49d4eef5cfd5955b9975518" title="Sprite::Sprite" alt="" coords="331,107,438,133"/>
+<area shape="rect" id="node10" href="$class_sprite.html#a9f2df90a866c027dc7d6c688ff6c9c90" title="Sprite::refresh" alt="" coords="328,157,441,184"/>
+<area shape="rect" id="node3" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="544,5,751,32"/>
+<area shape="rect" id="node7" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="541,56,753,83"/>
+<area shape="rect" id="node8" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="801,99,1013,141"/>
+<area shape="rect" id="node4" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="806,48,1009,75"/>
+<area shape="rect" id="node5" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="1061,77,1104,104"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1152,77,1207,104"/>
+<area shape="rect" id="node11" href="$class_sprite.html#a5ad64d12c3d8e2bd5a9b14f2f972dfd7" title="Sprite::setTexture" alt="" coords="580,157,715,184"/>
+</map>

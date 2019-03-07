@@ -1,0 +1,8 @@
+<map id="WindowManager::toggleFullScreen" name="WindowManager::toggleFullScreen">
+<area shape="rect" id="node2" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="271,81,409,108"/>
+<area shape="rect" id="node7" href="$_s_d_l__video_8h.html#ab4aa48f0a29f0868ce4e0422c02ed2fa" title="Set a window&#39;s fullscreen state. " alt="" coords="247,132,433,159"/>
+<area shape="rect" id="node3" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="487,5,623,32"/>
+<area shape="rect" id="node4" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="676,31,808,57"/>
+<area shape="rect" id="node5" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="481,107,628,133"/>
+<area shape="rect" id="node6" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="488,157,621,184"/>
+</map>

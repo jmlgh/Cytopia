@@ -1,0 +1,6 @@
+<map id="initialize" name="initialize">
+<area shape="rect" id="node2" href="$_s_d_l_8h.html#a8fc8d35348d7c74bad8392d776c937b8" title="SDL_Init" alt="" coords="144,5,219,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__error_8h.html#ac88e1aa404a8f94aaee4ad6b94547647" title="SDL_GetError" alt="" coords="127,56,236,83"/>
+<area shape="rect" id="node4" href="$_s_d_l__ttf_8h.html#a766731737c2ca9121924bcef57889128" title="TTF_Init" alt="" coords="147,107,216,133"/>
+<area shape="rect" id="node5" href="$_s_d_l__mixer_8h.html#a71a389ff8fb5e4af34d0951e73d05995" title="Mix_Init" alt="" coords="147,157,216,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="WindowManager::instance" name="WindowManager::instance">
+<area shape="rect" id="node2" href="$class_window_manager.html#a1bf841d5cb5444174c480de5f3ca368d" title="WindowManager::operator=" alt="" coords="241,65,439,92"/>
+<area shape="rect" id="node3" href="$class_window_manager.html#a9469bbac86049d97b179a9359425345f" title="WindowManager::toggleFull\lScreen" alt="" coords="243,117,437,158"/>
+<area shape="rect" id="node10" href="$class_window_manager.html#a2c3864d9a5b567c83b4799d97b38383a" title="WindowManager::setWindow\lTitle" alt="" coords="240,182,440,223"/>
+<area shape="rect" id="node4" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="513,81,650,108"/>
+<area shape="rect" id="node9" href="$_s_d_l__video_8h.html#ab4aa48f0a29f0868ce4e0422c02ed2fa" title="Set a window&#39;s fullscreen state. " alt="" coords="488,132,675,159"/>
+<area shape="rect" id="node5" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="728,5,864,32"/>
+<area shape="rect" id="node6" href="$class_settings.html#adb0042e7d1b48ef2888966b4eaefb751" title="Settings::readFile" alt="" coords="917,31,1049,57"/>
+<area shape="rect" id="node7" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="723,107,869,133"/>
+<area shape="rect" id="node8" href="$class_settings.html#a53285dd5cbd5bfafe155187c74150dde" title="Settings::writeFile" alt="" coords="729,157,863,184"/>
+<area shape="rect" id="node11" href="$_s_d_l__video_8h.html#a41aabc4b68f75f41d97995e02eb9deb6" title="Set the title of a window, in UTF&#45;8 format. " alt="" coords="506,189,657,216"/>
+</map>

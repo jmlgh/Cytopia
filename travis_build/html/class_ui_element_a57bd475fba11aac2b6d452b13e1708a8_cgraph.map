@@ -1,0 +1,4 @@
+<map id="UiElement::draw" name="UiElement::draw">
+<area shape="rect" id="node2" href="$class_ui_element.html#ae64fbbaf74deeb7c465613793474f796" title="UiElement::renderTexture" alt="" coords="180,5,364,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__render_8h.html#a4b6c2353384c7b7128fd5960b24f2ae6" title="Copy a portion of the texture to the current rendering target. " alt="" coords="412,5,543,32"/>
+</map>

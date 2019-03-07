@@ -1,0 +1,4 @@
+<map id="Mix_Playing" name="Mix_Playing">
+<area shape="rect" id="node2" href="$class_music.html#abafbcddbbade30e533af15e930240039" title="Check if music is playing Checks if this audio object is currently playing music. ..." alt="" coords="169,5,290,32"/>
+<area shape="rect" id="node3" href="$class_sound_effect.html#ac0a114e4728018bfa164d098ad6e26f9" title="Check if a sound effect is playing Checks if this audio object is currently playing. " alt="" coords="148,56,311,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Mix_LoadMUS" name="Mix_LoadMUS">
+<area shape="rect" id="node2" href="$class_music.html#a6d61b1c62d4708cd5a13f1440567431a" title="Load File Loads a music file of WAV, MOD, MIDI, OGG, MP3, FLAC. " alt="" coords="164,5,277,32"/>
+<area shape="rect" id="node3" href="$class_music.html#abc6d2773266494a66f24bf5d1bb5cade" title="Music::Music" alt="" coords="325,5,428,32"/>
+</map>

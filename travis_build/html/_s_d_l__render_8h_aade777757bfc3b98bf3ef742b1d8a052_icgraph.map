@@ -1,0 +1,10 @@
+<map id="SDL_QueryTexture" name="SDL_QueryTexture">
+<area shape="rect" id="node2" href="$class_sprite.html#a9f2df90a866c027dc7d6c688ff6c9c90" title="Sprite::refresh" alt="" coords="239,5,353,32"/>
+<area shape="rect" id="node4" href="$class_ui_element.html#a3206ae575c2eea154f4ee89564741507" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="209,56,383,83"/>
+<area shape="rect" id="node6" href="$class_ui_element.html#a56720077ae7f69979e5bf725f3c9be21" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="192,107,400,133"/>
+<area shape="rect" id="node3" href="$class_sprite.html#a5ad64d12c3d8e2bd5a9b14f2f972dfd7" title="Sprite::setTexture" alt="" coords="451,5,586,32"/>
+<area shape="rect" id="node5" href="$class_ui_element.html#a6457f52bdf8153c13d03a95b0f8ab770" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="637,56,832,83"/>
+<area shape="rect" id="node7" href="$class_ui_element.html#a1ab05e730a03275f366b136186f6d15a" title="UiElement::setText" alt="" coords="448,107,589,133"/>
+<area shape="rect" id="node9" href="$class_combo_box.html#a1e4e851a79fccea5a1bd69b96c3bdec7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="453,157,584,184"/>
+<area shape="rect" id="node8" href="$class_text.html#ac72a27151b0831ec61a9183d35f7ed77" title="Text::Text" alt="" coords="695,107,775,133"/>
+</map>

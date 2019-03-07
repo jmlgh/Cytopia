@@ -1,0 +1,51 @@
+<map id="run" name="run">
+<area shape="rect" id="node2" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="895,447,1082,474"/>
+<area shape="rect" id="node6" href="$class_window_manager.html#a2c3864d9a5b567c83b4799d97b38383a" title="WindowManager::setWindow\lTitle" alt="" coords="1137,5,1337,47"/>
+<area shape="rect" id="node8" href="$class_timer.html#a3a8b5272198d029779dc9302a54305a8" title="Start / Reset the timer Starts or restarts the timer. If the timer is already running, it will be stopped and restarted. " alt="" coords="407,477,503,503"/>
+<area shape="rect" id="node10" href="$class_engine.html#a8f2ddf432ebcefaac2334d8c244f8a0c" title="Retrieves instance of Singleton class Engine. " alt="" coords="925,781,1052,807"/>
+<area shape="rect" id="node12" href="$class_timer.html#a5fd65dd710c8229cb24d02f761a0b15f" title="get elapsed time Returns the time in milliseconds, that has passed since the timer was started..." alt="" coords="371,527,539,554"/>
+<area shape="rect" id="node14" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="349,1389,561,1431"/>
+<area shape="rect" id="node18" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="121,299,274,326"/>
+<area shape="rect" id="node19" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="UIManager::init" alt="" coords="395,173,514,199"/>
+<area shape="rect" id="node25" href="$class_u_i_manager.html#ad2b90c4bbfd0648a62a412f04418ac8e" title="UIManager::drawUI" alt="" coords="383,325,526,351"/>
+<area shape="rect" id="node26" href="$class_audio_mixer.html#ada9dfaaa82dcef56f291d80620f4208c" title="AudioMixer::playMusic" alt="" coords="116,983,279,1010"/>
+<area shape="rect" id="node27" href="$_s_d_l__timer_8h.html#a0b9bc71d6287e0ffafdc3419760fe2b3" title="Get the number of milliseconds since the SDL library initialization. " alt="" coords="143,1034,252,1061"/>
+<area shape="rect" id="node28" href="$class_engine.html#aea675ef41cb42dc56cb8d0d4e438dffb" title="Engine::isGameRunning" alt="" coords="111,1085,283,1111"/>
+<area shape="rect" id="node29" href="$_s_d_l__render_8h.html#a473b4abbb29c60e98876eb68ad850f79" title="Clear the current rendering target with the drawing color. " alt="" coords="131,1135,263,1162"/>
+<area shape="rect" id="node30" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="96,933,299,959"/>
+<area shape="rect" id="node39" href="$class_u_i_manager.html#af50a21a5d5c01979f13f83346fe1ae1e" title="UIManager::setFPSCounterText" alt="" coords="616,1683,835,1710"/>
+<area shape="rect" id="node48" href="$class_map.html#af31da75a16a46cb79c32d821e2c2163e" title="Map::renderMap" alt="" coords="134,1575,261,1602"/>
+<area shape="rect" id="node49" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="104,1626,291,1653"/>
+<area shape="rect" id="node50" href="$_s_d_l__render_8h.html#a48fa9d24395f3610746988ecca2aae86" title="Update the screen with rendering performed. " alt="" coords="123,1677,271,1703"/>
+<area shape="rect" id="node3" href="$class_window_manager.html#a1bf841d5cb5444174c480de5f3ca368d" title="WindowManager::operator=" alt="" coords="1138,447,1337,474"/>
+<area shape="rect" id="node4" href="$class_window_manager.html#a9469bbac86049d97b179a9359425345f" title="WindowManager::toggleFull\lScreen" alt="" coords="1141,571,1334,612"/>
+<area shape="rect" id="node5" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="1392,857,1529,883"/>
+<area shape="rect" id="node7" href="$_s_d_l__video_8h.html#a41aabc4b68f75f41d97995e02eb9deb6" title="Set the title of a window, in UTF&#45;8 format. " alt="" coords="1385,13,1536,39"/>
+<area shape="rect" id="node9" href="$_s_d_l__timer_8h.html#a2dbeb63c4f0564811a4adf3938808977" title="Get the current value of the high resolution counter. " alt="" coords="620,477,831,503"/>
+<area shape="rect" id="node11" href="$class_engine.html#a4759ed80f80add5731a7720d9666de56" title="Engine::operator=" alt="" coords="1168,781,1307,807"/>
+<area shape="rect" id="node13" href="$_s_d_l__timer_8h.html#a507ebea12e31dacc9f85f7d9febe0efb" title="Get the count per second of the high resolution counter. " alt="" coords="613,527,838,554"/>
+<area shape="rect" id="node15" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="617,1085,834,1111"/>
+<area shape="rect" id="node16" href="$iso_math_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="888,857,1089,883"/>
+<area shape="rect" id="node17" href="$class_map.html#ab69938ac0e56eb0da1d1701221f3d185" title="Map::refresh" alt="" coords="937,1161,1040,1187"/>
+<area shape="rect" id="node23" href="$class_u_i_manager.html#ad5649e48acc591c390e371f9e3ad48f6" title="UIManager::toggleGroupVisibility" alt="" coords="611,426,840,453"/>
+<area shape="rect" id="node20" href="$namespace_signal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="679,173,771,199"/>
+<area shape="rect" id="node21" href="$class_engine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Engine::quitGame" alt="" coords="657,325,793,351"/>
+<area shape="rect" id="node22" href="$class_engine.html#a2d74f1aebf7cbc576c261030ddcac5e3" title="Loads a saved game Loads a saved Game. " alt="" coords="903,223,1074,250"/>
+<area shape="rect" id="node24" href="$class_map.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="652,223,799,250"/>
+<area shape="rect" id="node31" href="$_s_d_l__events_8h.html#acfa517963c25f8b71acc6b56721c5d9b" title="Polls for currently pending events. " alt="" coords="398,1287,511,1314"/>
+<area shape="rect" id="node32" href="$class_engine.html#a1261654b687459f800f1a71b2186eef5" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="381,1506,529,1533"/>
+<area shape="rect" id="node33" href="$class_engine.html#a2563e43f253f9de4c55544feba416518" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="641,1491,810,1518"/>
+<area shape="rect" id="node34" href="$class_engine.html#a64d67ab7a504b26fb7f7efca7abf3968" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="638,1546,813,1573"/>
+<area shape="rect" id="node35" href="$class_engine.html#aed0b02ad4a43a8fc71b4084a2b45b612" title="Engine::toggleFullScreen" alt="" coords="636,578,815,605"/>
+<area shape="rect" id="node36" href="$class_engine.html#ae4525c96c7368290552009829b09948e" title="Engine::setTileIDOfNode" alt="" coords="638,1605,813,1631"/>
+<area shape="rect" id="node37" href="$class_engine.html#a8ea1dc4f854268d57992b60e0fe70e02" title="Engine::demolishNode" alt="" coords="643,1389,808,1415"/>
+<area shape="rect" id="node38" href="$class_u_i_manager.html#adc4fc26d57014ef94c8ad4e875dbf732" title="UIManager::toggleDebugMenu" alt="" coords="347,1658,563,1685"/>
+<area shape="rect" id="node40" href="$iso_math_8cxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="614,933,837,959"/>
+<area shape="rect" id="node41" href="$class_map.html#a5464bd287786fafc3cb1a5aea3a70bd8" title="Map::highlightNode" alt="" coords="382,781,527,807"/>
+<area shape="rect" id="node42" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="351,1135,558,1162"/>
+<area shape="rect" id="node43" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="349,1186,561,1213"/>
+<area shape="rect" id="node44" href="$namespaceutils.html#a36536812767e08111caf7ad382071e14" title="Helper function for Reverse template because c++11 does not support template deduction. " alt="" coords="378,882,531,909"/>
+<area shape="rect" id="node45" href="$class_u_i_manager.html#a9704672f2897a879d08ad265446a1d19" title="UIManager::getAllUiElements" alt="" coords="351,933,559,959"/>
+<area shape="rect" id="node46" href="$class_ui_element.html#a15ce008dd4e61acd5357f01cfb1987f4" title="UiElement::onMouseLeave" alt="" coords="359,983,551,1010"/>
+<area shape="rect" id="node47" href="$class_ui_element.html#a1c4939d543a9ba7e1f7e4e217828d9c3" title="UiElement::onMouseMove" alt="" coords="361,1034,549,1061"/>
+</map>

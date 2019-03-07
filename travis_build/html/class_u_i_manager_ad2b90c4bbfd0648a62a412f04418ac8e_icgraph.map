@@ -1,0 +1,5 @@
+<map id="UIManager::drawUI" name="UIManager::drawUI">
+<area shape="rect" id="node2" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="196,5,349,32"/>
+<area shape="rect" id="node3" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="397,31,440,57"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="488,31,543,57"/>
+</map>

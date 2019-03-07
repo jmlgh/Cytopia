@@ -1,0 +1,7 @@
+<map id="TTF_OpenFont" name="TTF_OpenFont">
+<area shape="rect" id="node2" href="$class_ui_element.html#a56720077ae7f69979e5bf725f3c9be21" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="165,56,373,83"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#a1ab05e730a03275f366b136186f6d15a" title="UiElement::setText" alt="" coords="421,31,563,57"/>
+<area shape="rect" id="node6" href="$class_combo_box.html#a1e4e851a79fccea5a1bd69b96c3bdec7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="427,81,557,108"/>
+<area shape="rect" id="node4" href="$class_ui_element.html#a6457f52bdf8153c13d03a95b0f8ab770" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="611,5,805,32"/>
+<area shape="rect" id="node5" href="$class_text.html#ac72a27151b0831ec61a9183d35f7ed77" title="Text::Text" alt="" coords="668,56,748,83"/>
+</map>

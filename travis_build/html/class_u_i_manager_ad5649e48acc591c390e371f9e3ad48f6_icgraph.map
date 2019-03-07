@@ -1,0 +1,7 @@
+<map id="UIManager::toggleGroupVisibility" name="UIManager::toggleGroupVisibility">
+<area shape="rect" id="node2" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="449,5,652,32"/>
+<area shape="rect" id="node5" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="UIManager::init" alt="" coords="283,56,401,83"/>
+<area shape="rect" id="node6" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="474,107,627,133"/>
+<area shape="rect" id="node3" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="700,56,743,83"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="791,56,845,83"/>
+</map>

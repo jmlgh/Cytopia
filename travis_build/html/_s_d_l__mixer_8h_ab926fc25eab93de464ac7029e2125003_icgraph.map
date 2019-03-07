@@ -1,0 +1,4 @@
+<map id="Mix_VolumeMusic" name="Mix_VolumeMusic">
+<area shape="rect" id="node2" href="$class_audio_mixer.html#a3c255511cf917e385bd99c6ff7dae12d" title="AudioMixer::setMusicVolume" alt="" coords="188,5,392,32"/>
+<area shape="rect" id="node3" href="$class_audio_mixer.html#aaff2ce84f3b16a3b368469a5753c5f82" title="AudioMixer::AudioMixer" alt="" coords="440,5,611,32"/>
+</map>

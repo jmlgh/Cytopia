@@ -1,0 +1,6 @@
+<map id="Timer::start" name="Timer::start">
+<area shape="rect" id="node2" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="149,5,352,32"/>
+<area shape="rect" id="node3" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="400,31,443,57"/>
+<area shape="rect" id="node5" href="$class_tooltip.html#ac48e36748acaf4cdd9838288f7732cc2" title="Tooltip::startTimer" alt="" coords="183,107,319,133"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="491,31,545,57"/>
+</map>

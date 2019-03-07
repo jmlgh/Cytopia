@@ -1,0 +1,4 @@
+<map id="Timer::getElapsedTime" name="Timer::getElapsedTime">
+<area shape="rect" id="node2" href="$_s_d_l__timer_8h.html#a2dbeb63c4f0564811a4adf3938808977" title="Get the current value of the high resolution counter. " alt="" coords="229,5,439,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__timer_8h.html#a507ebea12e31dacc9f85f7d9febe0efb" title="Get the count per second of the high resolution counter. " alt="" coords="221,56,447,83"/>
+</map>

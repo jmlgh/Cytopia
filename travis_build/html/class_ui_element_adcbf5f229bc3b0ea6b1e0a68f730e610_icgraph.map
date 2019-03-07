@@ -1,0 +1,4 @@
+<map id="UiElement::drawFrame" name="UiElement::drawFrame">
+<area shape="rect" id="node2" href="$class_button.html#a6b08fa54560842dec2eabed9a93c3103" title="Button::drawImageButtonFrame" alt="" coords="220,5,447,32"/>
+<area shape="rect" id="node3" href="$class_frame.html#af8abf245526132e86ee984601a71267a" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="283,56,383,83"/>
+</map>

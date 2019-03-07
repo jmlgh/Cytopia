@@ -1,0 +1,9 @@
+<map id="SDL_RenderCopy" name="SDL_RenderCopy">
+<area shape="rect" id="node2" href="$class_sprite.html#aff433fc35fa9259b5020858cc9749c7c" title="Sprite::render" alt="" coords="221,31,331,57"/>
+<area shape="rect" id="node3" href="$class_ui_element.html#ae64fbbaf74deeb7c465613793474f796" title="UiElement::renderTexture" alt="" coords="184,81,368,108"/>
+<area shape="rect" id="node4" href="$class_ui_element.html#a57bd475fba11aac2b6d452b13e1708a8" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="418,5,545,32"/>
+<area shape="rect" id="node6" href="$class_button.html#af4d14cf544d8e0620f4ffcd7984103f7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="430,56,533,83"/>
+<area shape="rect" id="node7" href="$class_combo_box.html#a1e4e851a79fccea5a1bd69b96c3bdec7" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="416,107,547,133"/>
+<area shape="rect" id="node8" href="$class_tooltip.html#af6075fc45363e3072fd532f7a1bf1376" title="Draw the UI Element and/or render it&#39;s textures to the screen Renders the texture of the Ui Element..." alt="" coords="431,157,531,184"/>
+<area shape="rect" id="node5" href="$class_ui_element.html#af82c94128e1d15179c066f033e79b56d" title="UiElement::onKeyDown" alt="" coords="595,5,764,32"/>
+</map>

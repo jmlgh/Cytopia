@@ -1,0 +1,10 @@
+<map id="SDL_GetRGBA" name="SDL_GetRGBA">
+<area shape="rect" id="node2" href="$class_map.html#ab69938ac0e56eb0da1d1701221f3d185" title="Map::refresh" alt="" coords="168,59,271,86"/>
+<area shape="rect" id="node3" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="587,84,793,111"/>
+<area shape="rect" id="node4" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="849,44,1051,71"/>
+<area shape="rect" id="node7" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="584,34,796,60"/>
+<area shape="rect" id="node8" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="319,135,536,162"/>
+<area shape="rect" id="node5" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="1104,79,1147,106"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1195,79,1249,106"/>
+<area shape="rect" id="node9" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="844,106,1056,148"/>
+</map>

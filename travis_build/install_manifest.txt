@@ -1,0 +1,109 @@
+/usr/share/applications/cytopia.desktop
+/usr/share/applications/cytopia-tiledata-editor.desktop
+/usr/games/Cytopia/./Cytopia
+/usr/games/Cytopia/./resources/fonts/arcadeclassics.ttf
+/usr/games/Cytopia/./resources/fonts/ARCADECLASSIC.TTF
+/usr/games/Cytopia/./resources/data/UIData.json
+/usr/games/Cytopia/./resources/data/TileData.json
+/usr/games/Cytopia/./resources/data/UILayout.json
+/usr/games/Cytopia/./resources/settings.json
+/usr/games/Cytopia/./resources/images/selection/selectedTile.png
+/usr/games/Cytopia/./resources/images/selection/grid.png
+/usr/games/Cytopia/./resources/images/selection/selectedNeighbor.png
+/usr/games/Cytopia/./resources/images/app_icons/cytopia_icon_iso.png
+/usr/games/Cytopia/./resources/images/app_icons/logo_big_textured.png
+/usr/games/Cytopia/./resources/images/app_icons/cytopia_icon.png
+/usr/games/Cytopia/./resources/images/app_icons/tiledataeditor_icon_iso.png
+/usr/games/Cytopia/./resources/images/roads/paved_road_slopes.png
+/usr/games/Cytopia/./resources/images/roads/dirt_road_slopes.png
+/usr/games/Cytopia/./resources/images/roads/paved_road.png
+/usr/games/Cytopia/./resources/images/roads/dirt_road.png
+/usr/games/Cytopia/./resources/images/roads/road_country.png
+/usr/games/Cytopia/./resources/images/roads/road_country_slopes.png
+/usr/games/Cytopia/./resources/images/terrain/terrain_tiles_debug.png
+/usr/games/Cytopia/./resources/images/terrain/terrain_sand.png
+/usr/games/Cytopia/./resources/images/terrain/terrain_tiles.png
+/usr/games/Cytopia/./resources/images/terrain/shoreline_grass.png
+/usr/games/Cytopia/./resources/images/terrain/terrain_slopes.png
+/usr/games/Cytopia/./resources/images/flora/trees.png
+/usr/games/Cytopia/./resources/images/flora/tree_1.png
+/usr/games/Cytopia/./resources/images/water/terrain_water.png
+/usr/games/Cytopia/./resources/images/ui/general/item_boxes.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Power Menu pressed.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Roads Menu.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Water Menu.png
+/usr/games/Cytopia/./resources/images/ui/buttons/water.png
+/usr/games/Cytopia/./resources/images/ui/buttons/raiseTerrain.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Debug Menu hover.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Debug Menu pressed.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Water Menu hover.png
+/usr/games/Cytopia/./resources/images/ui/buttons/cat_nature.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Debug Menu.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Roads Menu hover.png
+/usr/games/Cytopia/./resources/images/ui/buttons/levelTerrain.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Power Menu hover.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Construction Menu.png
+/usr/games/Cytopia/./resources/images/ui/buttons/no_icon.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Construction Menu pressed.png
+/usr/games/Cytopia/./resources/images/ui/buttons/lowerTerrain.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Water Menu pressed.png
+/usr/games/Cytopia/./resources/images/ui/buttons/paved_road.png
+/usr/games/Cytopia/./resources/images/ui/buttons/cat_GroundDeco.png
+/usr/games/Cytopia/./resources/images/ui/buttons/demolish.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Roads Menu pressed.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Power Menu.png
+/usr/games/Cytopia/./resources/images/ui/buttons/Construction Menu hover.png
+/usr/games/Cytopia/./resources/images/ui/buttons/dirt_road.png
+/usr/games/Cytopia/./resources/images/ui/buttons/country_road.png
+/usr/games/Cytopia/./resources/images/buildings/Water/wat_1x1_OldWaterTower.png
+/usr/games/Cytopia/./resources/images/buildings/Water/watertower.png
+/usr/games/Cytopia/./resources/images/buildings/Water/watertower2.png
+/usr/games/Cytopia/./resources/images/buildings/Water/wat_1x1_HomeWaterTower.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_1x1_SmallShack1.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_1x1_KTHouseNew4.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_1x1_KTHouseNew3.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_1x1_KTHouse.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_1x1_SmallShack2.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_1x1_KTHouseNew2.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_3x3_PurpleSkyScraper.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_3x3_RedSkyScraper.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_3x3_GreenSkyScraper.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_2x2_Daycare.png
+/usr/games/Cytopia/./resources/images/buildings/residential/res_3x3_ConcreteTowerLRG.png
+/usr/games/Cytopia/./resources/images/buildings/Power Plants/pow_1x1_SmallPowerPlant.png
+/usr/games/Cytopia/./resources/images/buildings/Power Plants/pow_3x3_CoalPlant.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_4x4_DepolluterLRG.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_1x1_DepolluterMINI1.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_1x1_MiniDepolluter.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_1x1_DepolluterMINI3.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_1x1_DepolluterMINI2.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_3x3_OldPowerPlant.png
+/usr/games/Cytopia/./resources/images/buildings/industrial/ind_2x2_DepolluterSML.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/com_3x3_CommunityTower.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/com_1x1_ClockStore3.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/com_1x1_BikeShop.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/res_1x1_KTHouse2.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/com_1x1_ClockStore1.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/com_1x1_ClockStore2.png
+/usr/games/Cytopia/./resources/images/buildings/commercial/com_2x2_office.png
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 2.wav
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 4.wav
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 6.wav
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 1.wav
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 5.wav
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 3.wav
+/usr/games/Cytopia/./resources/audio/sound effects/terrain/Terrain 7.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Major Selection.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Strong Winds.mp3
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Positive Jingle.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Negative Select 2.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Positive Select.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Nature Still Air and Birds.mp3
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Negative Select.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Bad Select.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Up Select.wav
+/usr/games/Cytopia/./resources/audio/sound effects/menu/Down Select.wav
+/usr/games/Cytopia/./resources/audio/music/Theme - Easy Listening.mp3
+/usr/games/Cytopia/./ReleaseNotes.txt
+/usr/games/Cytopia/./credits.txt
+/usr/games/Cytopia/./TileDataEditor

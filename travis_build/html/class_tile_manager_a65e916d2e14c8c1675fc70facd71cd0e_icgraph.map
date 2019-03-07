@@ -1,0 +1,4 @@
+<map id="TileManager::instance" name="TileManager::instance">
+<area shape="rect" id="node2" href="$class_map_node.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="215,5,360,32"/>
+<area shape="rect" id="node3" href="$class_map_node.html#ada85d1696216b7fb6aa77f59e073d54f" title="MapNode::getTileID" alt="" coords="408,5,555,32"/>
+</map>
